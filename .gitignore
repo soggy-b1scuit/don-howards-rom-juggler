@@ -1,0 +1,7 @@
+asset_unused/
+build/
+.xmake/
+.vscode/
+.cache/
+compile_commands.json
+ParisClub2_Music.it
